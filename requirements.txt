@@ -1,6 +1,6 @@
 Flask==1.1.1
 numpy>=1.9.2
-tensorflow==2.10.0
+tensorflow==2.0.0a0
 nltk==3.4.5
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
